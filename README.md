@@ -12,3 +12,5 @@ uso
 roadmap
 
 licencia
+
+agradecimiento
